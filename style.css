@@ -1,0 +1,83 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Creepster&family=Fredericka+the+Great&family=Honk&family=Julius+Sans+One&family=Libre+Barcode+39+Text&family=Monoton&family=Playfair+Display+SC:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&family=Protest+Guerrilla&family=Protest+Revolution&family=Rubik+Glitch+Pop&family=Shadows+Into+Light&family=Special+Elite&family=Tangerine:wght@400;700&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.clock {
+
+    font-family: "Protest Revolution", sans-serif;
+    font-size: 70px;
+    color: rgb(167, 207, 212);
+    text-align: center;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+body {
+    
+    background: linear-gradient(125deg, rgb(15, 15, 99) , rgb(71, 11, 71));
+    text-align: center;
+}
+
+
+
+h1 {
+    font-family: "Honk", system-ui;
+    font-size: 120px;
+    
+}
+
+h2 {
+    font-family: "Tangerine", cursive;
+    font-size: 90px;
+    color: rgb(110, 82, 46);
+    font-weight: 400;
+  font-style: normal;
+}
+
+h3 {
+    font-family: "Playfair Display SC", serif;
+    color: rgb(104, 23, 23);
+    font-size: 90px;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h4 {
+    font-family: "Monoton", sans-serif;
+    font-size: 80px;
+    color: rgb(0, 0, 0);
+    font-weight: 400;
+  font-style: normal;
+
+}
+
+h5 {
+    font-family: "Creepster", system-ui;
+    font-size: 90px;
+    color: rgb(37, 148, 37);
+    font-weight: 400;
+    font-style: normal;
+    
+}
+
+h6 {
+    font-family: "Fredericka the Great", serif;
+    font-size: 90px;
+    color: coral;
+    font-weight: 400;
+  font-style: normal;
+
+}
+
+h7 {
+    font-family: "Rubik Glitch Pop", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 90px;
+    color: rgb(233, 218, 200);
+}
